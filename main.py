@@ -218,11 +218,5 @@ with tab3:
             file_name="growth_data_export.xlsx",
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
-2. requirements.txt
-Plaintext
 
-streamlit
-pandas
-plotly
-openpyxl
 
